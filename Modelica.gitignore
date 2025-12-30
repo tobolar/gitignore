@@ -2,12 +2,6 @@
 # https://modelica.org/
 # Ignore temporary files, build results, simulation files
 
-## Modelica-specific files
-*~
-*.bak
-*.bak-mo
-*.mof
-
 ## Build artefacts
 *.exe
 *.exp
@@ -23,7 +17,17 @@
 *.tar
 *.zip
 
+## Emacs style backup files
+*~
+
+## Notepad++ style backup files
+*.bak
+
+## OpenModelica-specific files
+*.bak-mo
+
 ## Dymola-specific files
+*.mof
 buildlog.txt
 dsfinal.txt
 dsin.txt
