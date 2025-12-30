@@ -36,3 +36,7 @@ stat
 status
 stop
 success
+
+## Personal Claude files
+CLAUDE.local.md
+.claude/settings.local.json
