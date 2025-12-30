@@ -9,6 +9,7 @@
 *.mof
 
 ## Build artefacts
+/build
 *.exe
 *.exp
 *.o
