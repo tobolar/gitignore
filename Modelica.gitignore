@@ -14,7 +14,7 @@
 *.o
 *.pyc
 
-## Simulation files
+## Tool-specific simulation results
 *.mat
 
 ## Package files
