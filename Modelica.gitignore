@@ -12,6 +12,7 @@
 *.mol
 
 ## Build artefacts
+/build
 *.exe
 *.exp
 *.o
